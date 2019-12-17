@@ -7,7 +7,7 @@
 
 
 ## Based on
-- https://github.com/phpservermon/phpservermon/releases
+- https://github.com/phpservermon/phpservermon
 
 ## Fork of
 - https://github.com/bpodwinski/docker-phpservermon
