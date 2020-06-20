@@ -1,5 +1,6 @@
 FROM php:fpm-alpine
-MAINTAINER Benoit Podwinski
+MAINTAINER Pascal Gollor
+#MAINTAINER Benoit Podwinski # source from him
 
 ENV PHP_TIMEZONE UTC
 ENV PHP_MEMORY_LIMIT 256M
